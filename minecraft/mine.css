@@ -1,0 +1,18 @@
+body {
+    background-color:#0000B2
+}
+h1 {color:yellow;
+}
+p
+{color: #80ffe0;
+}
+#park{background-image:url('mine.png');
+    width:950px;
+    height:500px;
+    background-size:cover;
+}
+#mine{background-image:url('mine 2.jpg');
+    width:950px;
+    height:500px;
+    background-size:cover;
+}
